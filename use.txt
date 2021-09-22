@@ -1,0 +1,4 @@
+# config.bin
+http://192.168.0.1/cgi/conf.bin?
+
+http://192.168.1.1/cgi/conf.bin?
